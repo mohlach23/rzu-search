@@ -31,7 +31,7 @@ def crawl_route():
     urls = [
         "https://zgh.wikipedia.org",
         "https://shi.wikipedia.org",
-        "https://tmz.wikipedia.org",
+        "https://amazres.blogspot.com",
     ]
     for url in urls:
         crawl(url)
